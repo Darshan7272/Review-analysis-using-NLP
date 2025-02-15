@@ -1,0 +1,1 @@
+The project consists of end-to-end application of NLP techniques to understand the sentiments and their experience of the products they purchased. This will help the organisation to uderstand the customers needs and provide the product that meets their satisfaction.
